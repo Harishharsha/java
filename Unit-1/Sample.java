@@ -1,10 +1,9 @@
-package Harish;
-public class Sample{
-	public static void main(String []args){
-	
-	}
-	public void sa(){
-		System.out.println("Hi");	
-	}	
-}
+class Sample{
 
+public static void main(String a[]){
+
+int m=Math.round(Float.parseFloat(a[0]));
+System.out.println(m);
+
+}
+}
