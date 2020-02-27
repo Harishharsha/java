@@ -2,7 +2,7 @@ public class BitwiseOp {
     public static void main(String[] args) 
     { 
        
-        int a = 0xa;   
+        int a = 0xc;   
         int b = 0x0007;       
 		//int a = 0b0101;     
         //int b = 0b0111;     

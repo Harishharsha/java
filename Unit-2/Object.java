@@ -5,9 +5,8 @@ class Object{
 		Data d=new Data();
 		c=o.print(d);
 		System.out.println(c);
-	
 	}
-	int print(Data o){
+	static int print(Data o){
 		return o.a+o.b;
 	}
 }
